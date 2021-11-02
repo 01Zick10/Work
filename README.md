@@ -1,5 +1,4 @@
 # Work
-# Work
 #1
 a = 9
 tuplex = [4, 6, 2, 8, 3, 1]
